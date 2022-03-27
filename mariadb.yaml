@@ -1,5 +1,4 @@
 --- # Install MariaDB
-# this is a test comment
 - hosts: localhost
   remote_user: ansible
   become: yes
